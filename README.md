@@ -1,5 +1,7 @@
 # etag
 
+[![ci](https://github.com/p-vbordei/etag/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/etag/actions/workflows/ci.yml)
+
 Compute strong/weak ETags for strings, Buffers, and streams. Plus conditional-request helpers (`If-Match`, `If-None-Match`). Zero dependencies; uses Node's built-in `crypto`.
 
 ```ts
