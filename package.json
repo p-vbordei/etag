@@ -1,6 +1,6 @@
 {
   "name": "etag-mini",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Compute strong/weak ETags for strings, buffers, streams. Includes If-Match / If-None-Match comparison helpers. Zero dependencies (Node crypto only).",
   "keywords": [
     "etag",
