@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/etag/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/etag/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/etag-mini.svg)](https://www.npmjs.com/package/etag-mini)
+[![downloads](https://img.shields.io/npm/dm/etag-mini.svg)](https://www.npmjs.com/package/etag-mini)
+[![bundle](https://img.shields.io/bundlejs/size/etag-mini)](https://bundlejs.com/?q=etag-mini)
+
 Compute strong/weak ETags for strings, Buffers, and streams. Plus conditional-request helpers (`If-Match`, `If-None-Match`). Zero dependencies; uses Node's built-in `crypto`.
 
 ```ts
